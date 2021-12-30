@@ -1,5 +1,5 @@
 ### Second year maths student at the University of Cambridge
-My favourite languages: Python, JavaScript, TeX, Matlab, Haskell
+My favourite languages: Python, JavaScript, TeX, MATLAB, Haskell
 
 <!--
 **mvonhodenberg/mvonhodenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
