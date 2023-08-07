@@ -1,4 +1,4 @@
-### Third year maths student at the University of Cambridge
+### Maths student
 My favourite languages: Python (numpy,pandas), TeX, MATLAB, C++
 
 <!--
